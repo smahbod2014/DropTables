@@ -1,0 +1,37 @@
+[
+  {
+    "name": "El Rune",
+    "qualityLevel": 5,
+    "weight": 10000
+  },
+  {
+    "name": "Tal Rune",
+    "qualityLevel": 9,
+    "weight": 6000
+  },
+  {
+    "name": "Sol Rune",
+    "qualityLevel": 13,
+    "weight": 3000
+  },
+  {
+    "name": "Lum Rune",
+    "qualityLevel": 17,
+    "weight": 500
+  },
+  {
+    "name": "Pul Rune",
+    "qualityLevel": 21,
+    "weight": 100
+  },
+  {
+    "name": "Ohm Rune",
+    "qualityLevel": 25,
+    "weight": 1
+  },
+  {
+    "name": "Ber Rune",
+    "qualityLevel": 29,
+    "weight": 1
+  }
+]

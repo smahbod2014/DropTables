@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Fallen",
+    "qualityLevel": 1,
+    "area": "Blood Moor"
+  },
+  {
+    "name": "Zombie",
+    "qualityLevel": 3,
+    "area": "Blood Moor"
+  },
+  {
+    "name": "Fallen",
+    "qualityLevel": 1,
+    "area": "Cold Plains"
+  },
+  {
+    "name": "Dark Stalker",
+    "qualityLevel": 5,
+    "area": "Cold Plains"
+  },
+  {
+    "name": "Dark Spearwoman",
+    "qualityLevel": 7,
+    "area": "Cold Plains"
+  }
+]

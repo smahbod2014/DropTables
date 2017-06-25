@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Short Sword",
+    "qualityLevel": 1
+  },
+  {
+    "name": "Scimitar",
+    "qualityLevel": 5
+  },
+  {
+    "name": "Short Bow",
+    "qualityLevel": 1
+  },
+  {
+    "name": "Hunter's Bow",
+    "qualityLevel": 5
+  },
+  {
+    "name": "Wand",
+    "qualityLevel": 2
+  },
+  {
+    "name": "Hand Axe",
+    "qualityLevel": 3
+  }
+]
